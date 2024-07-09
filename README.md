@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me => Email: nilavan66gmail.com | Telegram: [Nilavan66](https://t.me/nilavan66) | Instagram: [Nilavan.AppDev](https://www.instagram.com/nilavan.appdev/)
 - 😄 Pronouns: He/Him
 
+<!--
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nilavan66&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=prussian" />
 </div>
@@ -17,3 +18,5 @@ Here are some ideas to get you started:
 <div>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nilavan66&theme=algolia&hide_border=false" />
 </div>
+
+-->
