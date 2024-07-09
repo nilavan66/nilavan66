@@ -13,13 +13,18 @@ Here are some ideas to get you started:
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=nilavan66&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&theme=prussian" />
     </td>
+  </tr>
+  <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nilavan66&show_icons=true&locale=en&layout=compact&theme=jolly"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nilavan66&show_icons=true&locale=en&layout=compact&theme=jolly" />
     </td>
+  </tr>
+  <tr>
     <td>
       <img src="https://github-readme-streak-stats.herokuapp.com?user=nilavan66&theme=algolia&hide_border=false" />
     </td>
   </tr>
 </table>
+
 
 <!---->
